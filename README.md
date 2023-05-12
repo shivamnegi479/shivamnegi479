@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 Hi there! My name is Shivam I'm a Software Engineer <br>🌍  I'm based in India<br><br>✉️  You can contact me at [shivamnegi479@gmail.com](mailto:shivamnegi479@gmail.com)<br><br>🧠  I'm  Currently learning ReactJs<br>👨‍🏫  My Primary skill is a python
+💫 Hi there! My name is Shivam I'm a Software Engineer <br>🌍  I'm based in India<br><br>✉️  You can contact me at [shivamnegi479@gmail.com](mailto:shivamnegi479@gmail.com)<br><br>🧠  I'm always looking for opportunities to learn and grow,  I'm  Currently learning ReactJs<br>👨‍🏫  My Primary skill is a python
 
 
 ## 🌐 Socials:
